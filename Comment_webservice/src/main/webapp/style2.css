@@ -1,0 +1,27 @@
+h2 {
+    font-size: 25px;
+    font-family: 'Nunito', sans-serif;
+    margin: 15px left;
+    text-align:center;
+}
+.login {
+    width: 350px;
+    margin: 50px auto;
+}
+form {        
+    background: #09bff7;
+    padding: 30px;
+    border-radius:10px;
+} 
+.btn {        
+    font-size: 15px;
+    font-weight: bold;
+    background-color:#f5f1f1;
+}
+.btn:hover { 
+    background-color:#09bff7;
+}
+img{
+    margin-right:-10px;
+}
+

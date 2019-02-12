@@ -1,0 +1,40 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    color: #292B2D;
+  }
+form {
+    max-width: 340px;
+    margin: 10px auto;
+    padding: 10px 50px;
+    background: #09bff7;
+    border-radius: 10px;
+  }
+h1 {
+    margin: 30px bottom;
+    text-align: center;
+  }
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="email"],
+input[type="file"],
+input[type="submit"],
+textarea,
+select {
+  font-size: 16px;
+  padding: 5px;
+  width: 100%;
+  margin: 0 0 12px 0;
+  background-color: #f8f8f8;
+  color: #252729;
+ 
+}
+input[type="radio"],
+input[type="checkbox"] {
+  margin: 0 4px 10px 0;
+}
+select {
+    padding: 6px;
+    height: 32px;
+    border-radius: 5px;
+  }
